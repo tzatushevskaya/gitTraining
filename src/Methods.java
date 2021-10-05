@@ -22,19 +22,19 @@ class Methods {
     @java.lang.Override
     public java.lang.String toString() {
         return "Methods{" +
-                "a=" + a +
-                ", b=" + b +
-                ", c=" + c +
-                ", name='" + name + '\'' +
+                "Name=" + name +
+                ", Surname=" + b +
+                ", Nickname=" + c +
+                ", address='" + a + '\'' +
                 '}';
     }
 
-    public int getA() {
-        return a;
+    public int getAname() {
+        return name;
     }
 
-    public void setA(int a) {
-        this.a = a;
+    public void setAname(int yourName) {
+        this.name = yourName;
     }
 
     public static void main(String[] args) {
