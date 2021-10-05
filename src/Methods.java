@@ -7,6 +7,10 @@ class Methods {
     public Methods() {
     }
 
+    public static void main(String[] args) {
+        // TO DO
+    }
+
     public boolean equals(Object object) {
         if (this == object) return true;
         if (object == null || getClass() != object.getClass()) return false;
@@ -19,38 +23,15 @@ class Methods {
         return Objects.hash(super.hashCode(), a, b, c, name);
     }
 
-    @java.lang.Override
-    public java.lang.String toString() {
-        return "Methods{" +
-                "Name=" + name +
-                ", Surname=" + b +
-                ", Nickname=" + c +
-                ", address='" + a + '\'' +
-                '}';
-    }
-
-    public int getAname() {
-        return name;
-    }
-
-    public void setAname(int yourName) {
-        this.name = yourName;
-    }
-
-    public static void main(String[] args) {
-        // TO DO
-    }
-
-    public void methodOne () {
+    public void methodOne() {
         System.out.println();
     }
 
-    public void methodTwo () {
+    public void methodTwo() {
         System.out.println();
     }
 
-    public void methodThree () {
+    public void methodThree() {
         System.out.println();
     }
-
 }
