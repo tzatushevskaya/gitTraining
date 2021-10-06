@@ -1,0 +1,3 @@
+[submodule "SJSG"]
+	path = SJSG
+	url = https://github.com/tzatushevskaya/SJSG.git
