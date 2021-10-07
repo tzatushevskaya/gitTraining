@@ -4,16 +4,15 @@ class methods_refactored {
         return "Methods{" +
                 "Name=" + name +
                 ", Surname=" + b +
-                ", Nickname=" + c +
                 ", address='" + a + '\'' +
                 '}';
     }
 
-    public int getAname() {
+    public int getSurname() {
         return name;
     }
 
-    public void setAname(int yourName) {
+    public void setSurname(int yourName) {
         this.name = yourName;
     }
 

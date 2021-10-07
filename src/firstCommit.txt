@@ -1,5 +1,0 @@
-DevB changed beginning
-DevA added more new lines
-DevB added more new lines
-DevA changed content
-DevA changed content
