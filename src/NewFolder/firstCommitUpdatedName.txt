@@ -1,1 +1,8 @@
+DevB changed beginning
+DevB added more new lines 2
+DevA added more new lines
+DevB added more new lines
+DevA changed content
+DevA changed content
+DevB added more new lines 2
 new
