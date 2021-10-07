@@ -1,5 +1,3 @@
-third
 DevA added line
-several new lines
-several new lines
-DevA added more new lines
+DevA changed content
+DevA changed content
